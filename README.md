@@ -29,9 +29,10 @@ Customizable Password Criteria: You can customize the length of the password and
 Password Strength Indicator: The tool provides a visual strength indicator that helps you assess the strength of the generated password.
 
 Getting Started
+Link:  link: https://valliebby.github.io/Generator-Password/
 Requirements
 Installation
-Clone the repository: git clone https://github.com/your-username/password-generator.git
+Clone the repository: git clone [https://github.com/your-username/password-generator.gi](https://github.com/Valliebby/Generator-Password.git)t
 
 Change into the project directory: cd password-generator
 
@@ -67,6 +68,5 @@ The Password Generator is open-source software licensed under the MIT License.
 
 
 
- link: https://valliebby.github.io/Generator-Password/
  
 ![Screen Shot 2023-07-24 at 10 45 46 PM](https://github.com/Valliebby/Generator-Password/assets/119483866/dce0b0a4-404b-4ed0-8bd9-6259f70bd6af)
