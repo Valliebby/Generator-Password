@@ -20,3 +20,6 @@ combinations. Every part of this example is showcases how to do the following:
  the function using const generatePassword. I then added all connecting elements and links to HTML. Afterwords
  I checked the HTML on Live Server and submitted there password generator button to make sure everything
  was running properly and fully functional.  
+
+
+ link: https://valliebby.github.io/Generator-Password/
